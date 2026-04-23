@@ -5,7 +5,7 @@
 **Location:** The Pitt Building, University of Cambridge  
 **Instructor:** Jacob Forward, Faculty of History  
 
-Welcome to the practical session of this Cambridge DTP workshop. This repository contains "Seed Prompts" which are carefully engineered instructions designed to transform a standard Large Language Model (LLM) into a specialized interlocutor.
+**Welcome to the practical session of this Cambridge DTP workshop. This repository contains "Seed Prompts" which are carefully engineered instructions designed to transform a standard Large Language Model (LLM) into a specialized interlocutor.**
 
 ## Getting Started
 

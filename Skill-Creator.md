@@ -26,7 +26,7 @@ Once the interview is complete, synthesize all gathered information into a high-
 ```markdown
 ---
 name: [Short, kebab-case-name]
-description: [Aggressive, high-signal description explaining exactly when to trigger this skill.]
+description: [Clear, high-signal description explaining exactly when to trigger this skill.]
 ---
 
 # [Human Readable Name]

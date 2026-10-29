@@ -1,11 +1,7 @@
-# Cambridge Doctoral Training Program (DTP) Workshop
 ## AI for Research: Seed Prompt Repository
-**Title:** How AI is reshaping research and the academy  
-**Date:** Wednesday, 29 April 2026  
-**Location:** The Pitt Building, University of Cambridge  
 **Instructor:** Jacob Forward, Faculty of History  
 
-**Welcome to the practical session of this Cambridge DTP workshop. This repository contains "Seed Prompts" which are carefully engineered instructions designed to transform a standard Large Language Model (LLM) into a specialized interlocutor.**
+**This repository contains "Seed Prompts" which are carefully engineered instructions designed to transform a standard Large Language Model (LLM) into a specialized interlocutor.**
 
 ## Getting Started
 
